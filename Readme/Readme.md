@@ -6,7 +6,20 @@
 |Номер|Требование|Присутствие|Ссылка|
 |--|--|--|--|
 |1|о медицинской организации|--|--|
-||место нахождения,схема проезда|+|https://ooo-medicina.ru/|
-||режим и график работы|||
+||место нахождения,схема проезда|+|https://ooo-medicina.ru/kontakty/|
+||режим и график работы|+|https://ooo-medicina.ru/|
+||https://ooo-medicina.ru/|+|https://ooo-medicina.ru/kontakty/|
+|2|об адресах и контактных телефонах органа исполнительной власти и т.д|+|https://ooo-medicina.ru/dokumenty/|
+|3|о страховых медицинских организациях|+|https://ooo-medicina.ru/dokumenty/|
+|4|о правах и обязанностях граждан в сфере охраны здоровья|+|https://ooo-medicina.ru/wp-content/uploads/2020/05/Prava-i-obyazannosti-grazhdan.pdf|
+|5|о медицинской деятельности медицинской организации|||
+||о наличии лицензии на осуществление медицинской деятельности|+|https://ooo-medicina.ru/dokumenty/|
+||о видах медицинской помощи|+|https://ooo-medicina.ru/o-nas/|
+||о порядке, об объеме и условиях оказания медицинской помощи в соответствии с программой государственных гарантий|+|https://ooo-medicina.ru/wp-content/uploads/2020/05/Postanovlenie-Pravitelstva-RF-ot-28.12.2020-N-2299.pdf|
+|6|о медицинских работниках медицинской организации, включая филиалы|||
+||фамилия, имя, отчество медицинского работника, занимаемая должность|+|https://ooo-medicina.ru/doctors/degtyareva-olga-ivanovna/|
+||сведения из документа об образовании|+|https://ooo-medicina.ru/doctors/degtyareva-olga-ivanovna/|
+|7|о вакантных должностях|-|-|
+|8||||
 |||||
 |||||
